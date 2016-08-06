@@ -1,0 +1,31 @@
+_repo: Seeing-Europe-with-Famous-Authors-Volume-6--13-Germany-Austria-Hungary-and-Switzerland-part-2_11179
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Halsey, Francis W. (Francis Whiting)
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '3081'
+    url: http://www.gutenberg.org/2009/agents/3081
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Whiting_Halsey
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DQ'
+- !lcc 'DD'
+- !lcc 'DB'
+- !lcsh 'Austria -- Description and travel'
+- !lcsh 'Switzerland -- Description and travel'
+- !lcsh 'Germany -- Description and travel'
+- GITenberg
+title: "Seeing Europe with Famous Authors, Volume 6\r\nGermany, Austria-Hungary and\
+  \ Switzerland, part 2"
+url: http://www.gutenberg.org/ebooks/11179
